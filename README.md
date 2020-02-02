@@ -19,7 +19,7 @@ Syntax highlighted code block
 - Bulleted
 - List
 
-1. Numbered
+
 
 
 **Bold** and _Italic_ and `Code` text
